@@ -1,0 +1,7 @@
+C:\Users\axels\OneDrive\Escritorio\SIS 2420\PRACTICA1.RiosZegarraAxel\Pregunta3\Pregunta3\bin\Debug\Pregunta3.exe.config
+C:\Users\axels\OneDrive\Escritorio\SIS 2420\PRACTICA1.RiosZegarraAxel\Pregunta3\Pregunta3\bin\Debug\Pregunta3.exe
+C:\Users\axels\OneDrive\Escritorio\SIS 2420\PRACTICA1.RiosZegarraAxel\Pregunta3\Pregunta3\bin\Debug\Pregunta3.pdb
+C:\Users\axels\OneDrive\Escritorio\SIS 2420\PRACTICA1.RiosZegarraAxel\Pregunta3\Pregunta3\obj\Debug\Pregunta3.csproj.AssemblyReference.cache
+C:\Users\axels\OneDrive\Escritorio\SIS 2420\PRACTICA1.RiosZegarraAxel\Pregunta3\Pregunta3\obj\Debug\Pregunta3.csproj.CoreCompileInputs.cache
+C:\Users\axels\OneDrive\Escritorio\SIS 2420\PRACTICA1.RiosZegarraAxel\Pregunta3\Pregunta3\obj\Debug\Pregunta3.exe
+C:\Users\axels\OneDrive\Escritorio\SIS 2420\PRACTICA1.RiosZegarraAxel\Pregunta3\Pregunta3\obj\Debug\Pregunta3.pdb
